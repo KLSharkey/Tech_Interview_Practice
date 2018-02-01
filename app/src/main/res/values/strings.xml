@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tech_Interview_Practice</string>
+    <string name="app_name">Technical Interview Practice</string>
     <string name="title_activity_login">Sign in</string>
 
     <!-- Strings related to login -->
@@ -23,4 +23,7 @@
     <string name="LinkedLists">Linked Lists</string>
     <string name="Hash">Dictionaries and Hashtables</string>
     <string name="linkTest"><a href="http://www.google.com">http://www.google.com</a></string>
+    <string name="addRes">Additional Resources</string>
+    <string name="TreeHeader">Trees</string>
+    <string name="LLHeader">Linked Lists</string>
 </resources>
