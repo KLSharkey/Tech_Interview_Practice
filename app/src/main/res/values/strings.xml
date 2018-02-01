@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Tech_Interview_Practice</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_options_page">optionsPage</string>
+    <string name="Welcome">Welcome!</string>
+    <string name="SignInFront">Sign In</string>
+    <string name="Register">Register</string>
+    <string name="OtherResources">Other Resources</string>
+    <string name="Trees">Trees</string>
+    <string name="LinkedLists">Linked Lists</string>
+    <string name="Hash">Dictionaries and Hashtables</string>
+    <string name="linkTest"><a href="http://www.google.com">http://www.google.com</a></string>
+</resources>
