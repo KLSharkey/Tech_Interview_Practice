@@ -14,6 +14,7 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="verifyPass">Verify Password</string>
     <string name="title_activity_options_page">optionsPage</string>
     <string name="Welcome">Welcome!</string>
     <string name="SignInFront">Sign In</string>
@@ -22,7 +23,8 @@
     <string name="Trees">Trees</string>
     <string name="LinkedLists">Linked Lists</string>
     <string name="Hash">Dictionaries and Hashtables</string>
-    <string name="linkTest"><a href="http://www.google.com">http://www.google.com</a></string>
+    <string name="linkGforG"><a href="https://www.geeksforgeeks.org/linked-list-set-1-introduction/">Geeks for Geeks</a></string>
+    <string name="linkCMU"><a href="https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html">CMU</a></string>
     <string name="addRes">Additional Resources</string>
     <string name="TreeHeader">Trees</string>
     <string name="LLHeader">Linked Lists</string>

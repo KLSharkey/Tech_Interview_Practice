@@ -19,6 +19,32 @@
         android:layout_height="wrap_content"
         android:text="@string/LLHeader"
         android:textAlignment="center"
+        android:textSize="28sp"
+        android:layout_marginBottom="10dp"/>
+    <TextView
+        android:id="@string/linkGforG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:text="@string/linkGforG"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_marginBottom="10dp" />
+    <TextView
+        android:id="@string/linkCMU"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:autoLink="web"
+        android:text="@string/linkCMU"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/TreeHeader"
+        android:textAlignment="center"
         android:textSize="28sp"/>
     <TextView
         android:id="@string/linkTest"
@@ -28,12 +54,15 @@
         android:text="@string/linkTest"
         android:textAlignment="center"
         android:textSize="20sp"
-        android:layout_marginBottom="20dp" />
+        android:layout_marginBottom="10dp" />
     <TextView
+        android:id="@string/linkTest"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/TreeHeader"
+        android:autoLink="web"
+        android:text="@string/linkTest"
         android:textAlignment="center"
-        android:textSize="28sp"/>
+        android:textSize="20sp"
+        android:layout_marginBottom="10dp" />
 
 </LinearLayout>
